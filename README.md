@@ -147,7 +147,7 @@ We did the initial pull from master, we added the structure for the framework we
 
 ## DEMO Gif Walkthrough
 
-![](https://github.com/krishnaaddala/train-schedulerHW/blob/master/assets/images/trainScheduler.gif)
+![](https://github.com/Chris-Hayashi/Project-One-Repo2/blob/master/assets/images/FinalProject1Giphy.gif)
 
 ## Future RoadMap
 
